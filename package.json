@@ -1,10 +1,10 @@
 {
     "name": "whirlpool-hash",
-    "version": "1.0.1",
-    "description": "",
+    "version": "1.0.2",
+    "description": "Calculates [WHIRLPOOL (WHIRLPOOL-0, WHIRLPOOL-T)](http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html) hash",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+
     },
     "repository": {
         "type": "git",

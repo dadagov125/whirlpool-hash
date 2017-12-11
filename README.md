@@ -6,10 +6,10 @@
 [The base64 library is cut from](http://mths.be/base64)
 ([base64](http://mths.be/base64))
 
-####LICENSE MIT
 
+Calculates [WHIRLPOOL (WHIRLPOOL-0, WHIRLPOOL-T)](http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html) hash
 
-
+LICENSE MIT
 
 ## Examples
 
