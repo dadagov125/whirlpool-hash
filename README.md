@@ -1,5 +1,4 @@
 # Whirlpool hash for JavaScript/TypeScript
-It's a library is cut from https://github.com/nf404/crypto-api
 
 [It's a library is cut from](https://github.com/nf404/crypto-api)
 ([Crypto API for JavaScript](https://github.com/nf404/crypto-api))
