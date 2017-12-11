@@ -1,5 +1,5 @@
 {
-    "name": "whirlpool2003",
+    "name": "whirlpool-hash",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,11 +8,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "dd"
+        "url": "https://github.com/dadagov125/whirlpool-hash"
     },
     "keywords": [
         "whirlpool",
-        "whirlpool2003"
+        "whirlpool-hash"
     ],
     "author": "Magomed Dadagov",
     "license": "MIT"

@@ -18,7 +18,7 @@ It's a library is cut from https://github.com/nf404/crypto-api
 
 Using on JavaScript(ES6)/TypeScript
 ```typescript
-import {Whirlpool,encoders}  from 'whirlpool2003'
+import {Whirlpool,encoders}  from 'whirlpool-hash'
 
 let whirlpool = new Whirlpool()
 let hash=whirlpool.getHash("message")
