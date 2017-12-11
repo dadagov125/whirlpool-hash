@@ -1,6 +1,6 @@
 {
     "name": "whirlpool-hash",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Calculates [WHIRLPOOL (WHIRLPOOL-0, WHIRLPOOL-T)](http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html) hash",
     "main": "index.js",
     "scripts": {

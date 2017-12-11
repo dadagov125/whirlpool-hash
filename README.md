@@ -13,9 +13,13 @@ LICENSE MIT
 
 ## Examples
 
+Install:
+```npm
+npm i whirlpool-hash
+```
 
 
-Using on JavaScript(ES6)/TypeScript
+Using on JavaScript(ES6)/TypeScript:
 ```typescript
 import {Whirlpool,encoders}  from 'whirlpool-hash'
 
