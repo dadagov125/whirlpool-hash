@@ -3,14 +3,12 @@ export class Whirlpool {
 }
 
 export namespace encoders {
-
-    function fromUtf(message: string): String
-
+    // function fromUtf(message: string): String
     function toHex(message: String): String
-    function toBase64(input:String):String
-    function fromBase64(input:String):String
 
+    function toBase64(input: String): String
 
-
+    function fromBase64(input: String): String
 }
+
 

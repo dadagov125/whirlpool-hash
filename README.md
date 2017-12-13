@@ -7,7 +7,7 @@
 ([base64](http://mths.be/base64))
 
 
-Calculates [WHIRLPOOL (WHIRLPOOL-0, WHIRLPOOL-T)](http://www.larc.usp.br/~pbarreto/WhirlpoolPage.html) hash
+Calculates WHIRLPOOL (WHIRLPOOL-0, WHIRLPOOL-T) hash
 
 LICENSE MIT
 
@@ -27,8 +27,6 @@ let whirlpool = new Whirlpool()
 let hash=whirlpool.getHash("message")
 encoders.toBase64(hash)
 encoders.fromBase64('bWVzc2FnZQ==')
-encoders.fromUtf("message")
 encoders.toHex('message')
 ```
-
 
