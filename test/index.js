@@ -1,4 +1,4 @@
-var whirlpool  = require('../index')
-var test =require('./test')
+var whirlpool = require('../index')
+var test = require('./test')
 
 test(whirlpool)

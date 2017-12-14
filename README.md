@@ -1,12 +1,4 @@
 # Whirlpool hash for JavaScript/TypeScript
-
-[It's a library is cut from](https://github.com/nf404/crypto-api)
-([Crypto API for JavaScript](https://github.com/nf404/crypto-api))
-
-[The base64 library is cut from](http://mths.be/base64)
-([base64](http://mths.be/base64))
-
-
 Calculates WHIRLPOOL (WHIRLPOOL-0, WHIRLPOOL-T) hash
 
 LICENSE MIT
