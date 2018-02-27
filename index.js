@@ -785,9 +785,9 @@
     const result = {
         Whirlpool,
         encoders: {
-            toHex, fromBase64, toBase64
+            toHex, fromBase64, toBase64, fromUtf
         }
-    }
+    };
     /*------------------------------AMD Module--------------------------------------------*/
     // Some AMD build optimizers, like r.js, check for specific condition patterns
     // like the following:

@@ -1,9 +1,10 @@
 {
   "name": "whirlpool-hash",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Calculates [WHIRLPOOL (WHIRLPOOL-0, WHIRLPOOL-T)] hash",
   "main": "index.js",
   "scripts": {
+    "test": "node test/index.js"
   },
   "repository": {
     "type": "git",
@@ -11,7 +12,8 @@
   },
   "keywords": [
     "whirlpool",
-    "whirlpool-hash"
+    "whirlpool-hash",
+    "hash"
   ],
   "author": "Magomed Dadagov",
   "license": "MIT"

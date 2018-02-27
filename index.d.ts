@@ -9,6 +9,8 @@ export namespace encoders {
     function toBase64(input: String): String
 
     function fromBase64(input: String): String
+
+    function fromUtf(input: String): String
 }
 
 
