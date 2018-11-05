@@ -1,4 +1,8 @@
 export class Whirlpool {
+    constructor(options?: {
+        type?: 't' | '0' | '',
+        rounds?: number
+    });
     getHash(message: String): String;
 }
 
