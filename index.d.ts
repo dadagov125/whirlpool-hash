@@ -3,7 +3,7 @@ export class Whirlpool {
         type?: 't' | '0' | '',
         rounds?: number
     });
-    getHash(message: String): String;
+    getHash(message: string): string;
 }
 
 export namespace encoders {
