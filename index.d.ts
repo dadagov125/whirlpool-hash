@@ -1,5 +1,9 @@
 export class Whirlpool {
-    getHash(message: String): String;
+    constructor(options?: {
+        type?: 't' | '0' | '',
+        rounds?: number
+    });
+    getHash(message: string): string;
 }
 
 export namespace encoders {
